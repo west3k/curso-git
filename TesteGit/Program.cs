@@ -6,6 +6,7 @@ namespace TesteGit {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Bom dia");
             Console.WriteLine("Tenha um bom dia!");
+            Console.WriteLine("Tchau!");
         }
     }
 }
